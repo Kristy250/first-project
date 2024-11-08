@@ -67,10 +67,6 @@
   margin-right: 0;
 }
 
-.menu__link_active {
-  text-decoration: underline;
-}
-
 .content {
 	max-width: 1330px;
 	min-width: 1280px;
